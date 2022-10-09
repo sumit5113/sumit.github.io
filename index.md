@@ -20,10 +20,10 @@
 
 | 1 | 2 | 3 | 4 | 
 | :--- | :--- | :--- | :--- |
-| <audio src="audio/fabm2aa1.wav" controls preload></audio> | <audio src="audio/fabm2aa1.wav" controls preload></audio> | <audio src="audio/fabm2aa1.wav" controls preload></audio> | <audio src="audio/fabm2aa1.wav" controls preload></audio> |
+| <audio src="audios/fabm2aa1.wav" controls preload></audio> | <audio src="audios/fabm2aa1.wav" controls preload></audio> | <audio src="audios/fabm2aa1.wav" controls preload></audio> | <audio src="audio/fabm2aa1.wav" controls preload></audio> |
 | --- | --- | --- | --- |
 
 | Source | Original (abc - model) | Converted (xyz-model) |
 | :--- | :--- | :--- |
-| <audio src="audio/fabm2aa1.wav" controls preload></audio> | <audio src="audio/fabm2aa1.wav" controls preload></audio> | <audio src="audio/fabm2aa1.wav" controls preload></audio> | 
+| <audio src="audios/fabm2aa1.wav" controls preload></audio> | <audio src="audios/fabm2aa1.wav" controls preload></audio> | <audio src="audios/fabm2aa1.wav" controls preload></audio> | 
 | --- | --- | --- |
