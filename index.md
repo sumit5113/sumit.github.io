@@ -1,4 +1,4 @@
-# <center> DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion </center>
+# <center> Title of the topic </center>
 
 <center> Sumit Dey *</center> 
 
